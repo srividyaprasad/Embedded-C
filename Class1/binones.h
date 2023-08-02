@@ -1,0 +1,1 @@
+int calcbinones(signed long int);
