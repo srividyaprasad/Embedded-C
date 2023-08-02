@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Class1\class1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Class2\class2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Class3\class3.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\SpeedometerDesign\SpeedometerDesign.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\TimerDesign\TimerDesign.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
